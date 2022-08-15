@@ -1,7 +1,7 @@
 ### Olá
 
--  Atualmente trabalhando com back-end
--  Estudando Python
+-  Atualmente trabalhando em projetos relacionados a back-end
+-  Estudando Python,html,java.
 -  Contate-me no email; christianssv37@gmail.com
 -  Pronouns: ele/ele
   

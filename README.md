@@ -1,7 +1,7 @@
 ### Olá
 
 -  Atualmente interessado  em projetos relacionados a back-end
--  Estudando Python,html,java.
+-  Estudando Python,HTML5,CSS3 e java.
 -  Contate-me no email; christianssv37@gmail.com
 -  Pronouns: ele/ele
   

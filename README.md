@@ -3,7 +3,7 @@
 -  Atualmente interessado  em projetos relacionados a back-end
 -  Estudando Python e HTML5
 -  Contate-me no email; christianssv37@gmail.com
--  Pronouns: ele/ele
+-  Pronouns: ele/dele
   
 <div align="center">
  <a href="https://github.com/ChristianSousa19">

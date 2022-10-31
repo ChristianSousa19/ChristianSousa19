@@ -1,7 +1,7 @@
 ### Olá
 
 -  Atualmente interessado  em projetos relacionados a back-end
--  Estudando Python e HTML5
+-  Estudando Python,Java e HTML5
 -  Contate-me no email; christianssv37@gmail.com
 -  Pronouns: ele/dele
   

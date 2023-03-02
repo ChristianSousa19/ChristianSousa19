@@ -6,7 +6,7 @@
 -  Pronomes: ele/dele
   
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ChristianSousa19_icons=true&theme=dark)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ChristianSousa19&show_icons=true)
  <a href="https://github.com/ChristianSousa19">
  
 

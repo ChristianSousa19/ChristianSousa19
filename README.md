@@ -5,6 +5,7 @@
 -  Contate-me no email; christianssv37@gmail.com
 -  Pronomes: ele/dele
   
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ChristianSousa19)](https://github.com/anuraghazra/github-readme-stats)
 <div align="center">
  <a href="https://github.com/ChristianSousa19">
  

@@ -1,9 +1,9 @@
 ### Olá
 
--  Atualmente interessado  em projetos relacionados a back-end e front-end
--  Estudando Python,Java,HTML5 e C#
+-  Atualmente trabalhando em projetos Full-Stack.
+-  Cursando Superior em tecnologia
 -  Contate-me no email; christianssv37@gmail.com
--  Pronomes: ele/dele
+-  Pronomes: ele/dele.
   <div> 
   <img height="167em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ChristianSousa19&layout=compact&langs_count=7&theme=dracula"/>
   <a heref="https://github.com/ChristianSousa19">

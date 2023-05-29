@@ -5,9 +5,9 @@
 -  Contate-me no email; christianssv37@gmail.com
 -  Pronomes: ele/dele.
   <div> 
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ChristianSousa19&layout=compact&langs_count=7&theme=dracula"/>
+  <img height="190em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ChristianSousa19&layout=compact&langs_count=7&theme=dracula"/>
   <a heref="https://github.com/ChristianSousa19">
-  <img height="180em" src= "https://github-readme-stats.vercel.app/api?username=ChristianSousa19&show_icons=true&theme=dracula")
+  <img height="190em" src= "https://github-readme-stats.vercel.app/api?username=ChristianSousa19&show_icons=true&theme=dracula")
   <img height="167em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ChristianSousa19&layout=compact&langs_count=7&theme=dracula"/>
 
 </div>
